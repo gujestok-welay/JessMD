@@ -10,7 +10,8 @@ Konverter dokumen lokal berbasis Python (`microsoft/markitdown`) untuk mengubah 
 
 ## 🚀 Cara Instalasi di Windows (Otomatis)
 
-1. Klik tombol **Code** > **Download ZIP** di halaman ini, lalu ekstrak foldernya.
+1. ⬇️ Download Aplikasi
+👉 **[Klik di sini untuk Download JessMD (.ZIP)](https://github.com/gujestok-welay/JessMD/releases/latest/download/JessMD-Windows.zip)**
 2. Masuk ke dalam folder hasil ekstrak dan klik ganda **`Install_JessMD.bat`**.
 3. Tunggu hingga proses instalasi selesai (script akan otomatis menyiapkan Python, environment, shortcut Desktop, dan menu klik kanan Explorer).
 
