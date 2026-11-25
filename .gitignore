@@ -1,0 +1,14 @@
+# Virtual environment & cache Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log & file sementara
+*.log
+.DS_Store
+Thumbs.db
+
+# File registry lokal dengan path statis
+Install_Menu_Klik_Kanan.reg
+Uninstall_Menu_Klik_Kanan.reg

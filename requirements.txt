@@ -1,0 +1,5 @@
+markitdown[all]
+streamlit
+tiktoken
+rapidocr-onnxruntime
+pypdfium2
